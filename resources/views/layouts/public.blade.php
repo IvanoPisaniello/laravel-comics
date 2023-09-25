@@ -12,5 +12,6 @@
     @include ('partials.hero')
     @include('partials.cards')
     @include('partials.lower_menu')
+    @include('partials.footer')
 </body>
 </html>

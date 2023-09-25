@@ -28,7 +28,7 @@
     ];
 @endphp
 
-
+<div class="bg-primary">
     <div class="Menu-container">
         <div class="container d-flex justify-content-around align-items-center py-5">
             @foreach($links as $link)
@@ -39,4 +39,5 @@
             @endforeach
         </div>
     </div>
+</div>
 
